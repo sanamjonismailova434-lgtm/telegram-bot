@@ -3,7 +3,7 @@ from google import genai
 import telebot
 
 # Bot tokeningiz va Gemini kalitini shu yerga yozasiz
-TELEGRAM_BOT_TOKEN = "8231254487:AAEFAnPshw8EectAaBQUAoNFbKOcEPSxzz4"
+TELEGRAM_BOT_TOKEN = "8231254487:AAFfu8cTiXvsUTefbuweqwQdXgyJ49FwdLg"
 GEMINI_API_KEY = "AQ.Ab8RN6KyPvuckAaBmzy4iRqw-HSVnnzY3IMSn62LavdmtA8Cog"
 
 bot = telebot.TeleBot(TELEGRAM_BOT_TOKEN)
