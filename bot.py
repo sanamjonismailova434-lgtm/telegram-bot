@@ -2,7 +2,7 @@ from google import genai
 import telebot
 
 # Token va kalitni to'g'ridan-to'g'ri shu yerga yozamiz
-TELEGRAM_BOT_TOKEN = "8231254487:AAGzYNTyeMibMW7hccIxFxK-qKMQPuPQkWg"
+TELEGRAM_BOT_TOKEN = "8231254487:AAHsKuKV1VHbm_yIvS4rvOHMxLEMIfH404Y"
 GEMINI_API_KEY = "AQ.Ab8RN6KbyinUef1typiDr7QMHh2X9zGVUr9egrM3-01_kFTTvQ"
 
 bot = telebot.TeleBot(TELEGRAM_BOT_TOKEN)
